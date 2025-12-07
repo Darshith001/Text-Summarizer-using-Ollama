@@ -2,8 +2,7 @@
 
 This project is a web content summarizer powered by Ollama (local LLM runner).
 It allows users to input a URL, extract the page text, and generate a clear, concise summary.
-The goal is simple:
-👉 Read long articles, blogs, or documentation and get an instant, meaningful summary.
+The goal is simple: Read long articles, blogs, or documentation and get an instant, meaningful summary.
 
 Features
 
